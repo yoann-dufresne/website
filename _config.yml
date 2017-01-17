@@ -22,6 +22,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yoann-dufresne
 
+# Global settings
+timezone: Europe/Paris
+encoding: utf-8
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -30,3 +34,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+show_drafts: true
