@@ -11,6 +11,6 @@ I do my research in the Bonsai Group on [exact algorithmic for nonribosomal pept
 
 During my 3 years of thesis, I gave many lectures in the computer science department of [Lille 1](http://www.univ-lille1.fr/), from programming basics in C or JAVA for bahelor's degree students to Advance algorithms and Kernel programming for master's degree students.  
 
-I'm also a frequent participant of algorithms contests and soon I will add a blog on this website to explain my reflexions on different algorithm problems.  
+I'm also a frequent participant of algorithms contests. I will add a blog soon to explain my reflexions on different algorithm problems that I solved during these contests.  
 
 For more details on me, you can download my [CV](data/CV-1page.pdf) or look at my research section.
