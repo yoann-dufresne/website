@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: My research interests
+id: 2
 ---
 
 # PhD thesis: Algorithmic for automatic annotations of Non Ribosomal Peptides
